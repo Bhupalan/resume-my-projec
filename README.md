@@ -1,1 +1,1 @@
-# resume-my-projec
+# resume-my-project
